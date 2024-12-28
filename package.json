@@ -19,7 +19,8 @@
     "color": "^4.2.3",
     "colors": "^1.4.0",
     "express": "^4.21.2",
-    "mongoose": "^8.9.2"
+    "mongoose": "^8.9.2",
+    "process": "^0.11.10"
   },
   "devDependencies": {
     "concurrently": "^9.1.0",
